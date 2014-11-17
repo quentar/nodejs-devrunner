@@ -12,8 +12,6 @@ git clone git@github.com:quentar/nodejs-devrunner.git
 cd cd nodejs-devrunner && npm install
 ```
 
-_Note_: If you don't have RethinkDB installed, you can follow [these instructions to get it up and running](http://www.rethinkdb.com/docs/install/). 
-
 
 # Running the application #
 
